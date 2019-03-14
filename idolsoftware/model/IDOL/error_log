@@ -1,0 +1,29 @@
+[20-Aug-2018 11:36:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[20-Aug-2018 11:36:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[15-Sep-2018 14:23:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[17-Sep-2018 08:03:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[17-Sep-2018 08:03:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[18-Sep-2018 05:54:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[18-Sep-2018 08:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[18-Sep-2018 08:17:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[18-Sep-2018 08:18:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[18-Sep-2018 08:19:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[18-Sep-2018 08:19:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[18-Sep-2018 08:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[18-Sep-2018 08:21:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 61
+[12-Nov-2018 05:20:41 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/conn.php on line 6
+[12-Nov-2018 05:20:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/conn.php on line 6
+[12-Nov-2018 10:50:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/location_tracking.php on line 23
+[12-Nov-2018 10:50:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/location_tracking.php on line 27
+[12-Nov-2018 10:50:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/location_tracking.php on line 37
+[12-Nov-2018 10:50:41 Asia/Kolkata] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/location_tracking.php on line 41
+[12-Nov-2018 10:50:41 Asia/Kolkata] PHP Fatal error:  Call to a member function close() on a non-object in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/location_tracking.php on line 44
+[12-Nov-2018 05:50:42 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/conn.php on line 6
+[12-Nov-2018 05:50:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/conn.php on line 6
+[12-Nov-2018 11:20:42 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/location_tracking.php on line 23
+[12-Nov-2018 11:20:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/location_tracking.php on line 27
+[12-Nov-2018 11:20:42 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/location_tracking.php on line 37
+[12-Nov-2018 11:20:42 Asia/Kolkata] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/location_tracking.php on line 41
+[12-Nov-2018 11:20:42 Asia/Kolkata] PHP Fatal error:  Call to a member function close() on a non-object in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/location_tracking.php on line 44
+[21-Nov-2018 10:05:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 75
+[26-Nov-2018 05:29:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/ulixsoft/public_html/idolsoftware/model/IDOL/getAssignWork.php on line 75
